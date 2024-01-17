@@ -1,70 +1,107 @@
 {
-  "basics": {
-    "name": "Madden Bonecutter",
-    "label": "Student",
-    "picture": "https://avatars.githubusercontent.com/u/144301426?v=4",
-    "email": "maddenb@hawaii.edu",
-    "phone": "419-295-9355",
-    "website": "https://maddenssww.github.io",
-    "summary": "I am studying for a B.B.A in MIS and International Business, as well as Korean at the University of Hawaii. I expect to graduate in Spring, 2025.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
-    "profiles": [
-      { "network": "github", "username": "maddenssww", "url": "http://github.com/maddenssww" },
-      { "network": "linkedin", "username": "maddenbonecutter", "url": "http://linkedin.com/in/maddenbonecutter" },
-      { "network": "instagram", "username": "madden.__", "url": "http://instagram.com/madden.__" }
-    ]
-  },
-  "interests": [
-    { "name": "Formula 1" },
-    { "name": "Pop Culture" },
-    { "name": "Computer Customization" },
-    { "name": "Data Analytics" }
-  ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+    "basics": {
+        "name": "Madden Bonecutter",
+        "label": "Student",
+        "picture": "https://avatars.githubusercontent.com/u/144301426?v=4",
+        "email": "maddenb@hawaii.edu",
+        "phone": "419-295-9355",
+        "website": "https://maddenssww.github.io",
+        "summary": "I am studying for a B.B.A in MIS and International Business, as well as Korean at the University of Hawaii. I expect to graduate in Spring, 2025.",
+        "location": {
+            "address": "",
+            "postalCode": "96822",
+            "city": "Honolulu",
+            "countryCode": "USA",
+            "region": "Hawaii"
+        },
+        "profiles": [
+            {
+                "network": "github",
+                "username": "maddenssww",
+                "url": "http://github.com/maddenssww"
+            },
+            {
+                "network": "linkedin",
+                "username": "maddenbonecutter",
+                "url": "http://linkedin.com/in/maddenbonecutter"
+            },
+            {
+                "network": "instagram",
+                "username": "madden.__",
+                "url": "http://instagram.com/madden.__"
+            }
+        ]
     },
-    {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "MIS, International Business, and Korean (expected Spring, 2025)",
-      "studyType": "B.B.A.",
-      "startDate": "2022-08-21",
-      "endDate": "Present"
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "GenZHer",
-      "position": "Pop Culture and Identity Editor",
-      "website": "",
-      "startDate": "2021-01-15",
-      "endDate": "Present",
-      "summary": "Editor",
-      "highlights": [
-        "Work alongside 500+ Females across the World",
-        "Inform and update Generation Z through online articles "
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Dean's List",
-      "date": "2022-Present",
-      "awarder": "UH Manoa"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request"
-    }
-  ]
+    "interests": [
+        {
+            "name": "Formula 1"
+        },
+        {
+            "name": "Pop Culture"
+        },
+        {
+            "name": "Computer Customization"
+        },
+        {
+            "name": "Data Analytics"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Languages and Frameworks",
+            "keywords": [
+                "C",
+                "C++",
+                "Java",
+                "Javascript",
+                "Assembly",
+                "Common Lisp"
+            ]
+        },
+        {
+            "name": "Toolsets/OS",
+            "keywords": [
+                "MacOS",
+                "Ubuntu",
+                "Git/GitHub",
+                "g++",
+                "TI LaunchPad"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "University of Hawaii, Honolulu, HI",
+            "area": "MIS, International Business, and Korean (expected Spring, 2025)",
+            "studyType": "B.B.A.",
+            "startDate": "2022-08-21",
+            "endDate": "Present"
+        }
+    ],
+    "work": [
+        {
+            "company": "GenZHer",
+            "position": "Pop Culture and Identity Editor",
+            "website": "",
+            "startDate": "2021-01-15",
+            "endDate": "Present",
+            "summary": "Editor",
+            "highlights": [
+                "Work alongside 500+ Females across the World",
+                "Inform and update Generation Z through online articles "
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Dean's List",
+            "date": "2022-Present",
+            "awarder": "UH Manoa"
+        }
+    ],
+    "references": [
+        {
+            "name": "Available upon request"
+        }
+    ]
 }
